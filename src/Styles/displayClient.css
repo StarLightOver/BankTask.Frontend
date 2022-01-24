@@ -1,0 +1,15 @@
+﻿input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    min-height: 22px;
+    position: relative;
+}
+
+form {
+    display: grid;
+    align-content: center;
+    width: 50%;
+    justify-content: center;
+    margin: 20px;
+}
